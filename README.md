@@ -23,6 +23,7 @@ Chakra UI: A simple, modular, and accessible component library that provides the
 ## Live Demo
 
 You can try the application by visiting [this link](https://insta-clone-ec254.web.app).
-Sign up or Sign In using these credentials:
+Sign up or Sign In using these credentials =>
+
 username : abc@gmail.com
-password : 12345
+password : 123456
